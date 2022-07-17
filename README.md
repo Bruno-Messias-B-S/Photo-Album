@@ -7,6 +7,7 @@
 <img alt="overview" src="./readmefiles/albumFull.gif">
 
 ## | Albums List
+<p>Each album has different photos in it.</p>
 <img alt="albumsList" src="./readmefiles/album2.gif">
 
 ## | Photos List
